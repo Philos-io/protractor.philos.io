@@ -1,8 +1,0 @@
-Install locally
-- animate.css
-- materialize css
-- toastr
-- webpack
-- wabpck-dev-server
-- protractor
-
