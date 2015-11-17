@@ -1,7 +1,7 @@
 .tmp/
 dist/
 node_modules/
-important.txt
+todo.txt
 vendors/
 LICENSE
-todo.txt
+snippets/
